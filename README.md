@@ -8,3 +8,5 @@ having to face any frame rate drop issue. This is built using p5.js library and 
 to the libraries section of p5 website where I found a library for collision detection with the github link. The author of that library left
 the link of a great reference for all kinds of collision detection techniques. It contained the basics of collision detection. I went to use
 that library but I didn't. I coded that collision detection between points and polygons. The world is full of this kind of good people!
+
+![](screenshot.png)
